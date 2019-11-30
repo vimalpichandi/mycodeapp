@@ -1,0 +1,19 @@
+.rounded-circle {
+
+	border: 0.2rem solid #e5496a !important;max-width: 70px !important;
+}
+
+.rounded-circle1 {
+    border-radius: 50% !important;
+}
+
+
+.db-social .widget-header .user-image img {
+    width: 70px !important;
+}
+
+.db-social .widget-header .role {
+    color: #aea9c3;
+    font-size: 1.10rem;
+    line-height: 30px;
+}
